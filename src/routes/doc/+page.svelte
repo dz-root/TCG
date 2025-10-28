@@ -4,7 +4,7 @@
 </script>
 <Header />
 <IdeFrame title="📘 Documentation" status={`04 Recommendations`}>
-    <div class="h-[650px] overflow-y-auto">
+    <div class="h-[600px] overflow-y-auto">
     <h2 class="text-md font-bold mb-2 text-[#8f93a2]">Abstract</h2>
     <div class="rounded-xl border border-amber-900 p-5 mb-5 overflow-x-auto text-orange-400 text-sm bg-amber-950">
         The analysis of the ThinkerCareGroup contact form revealed several significant flaws that allow the submission of fraudulent messages, automated spam, and <span class="font-bold underline">public access to all data submitted by users</span>. These vulnerabilities directly expose the platform to risks of confidentiality breaches, system overload, and abuse.

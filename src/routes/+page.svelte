@@ -62,7 +62,7 @@
         Response from the SheetDB API:
     </p>
 
-    <div class="overflow-x-auto border border-[#2b3040] rounded-xl h-[500px]">
+    <div class="overflow-x-auto border border-[#2b3040] rounded-xl h-[490px]">
         <table class="min-w-full text-sm">
             <thead class="bg-[#1b1e2b] text-[#8f93a2]">
                 <tr>
